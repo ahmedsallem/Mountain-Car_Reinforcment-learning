@@ -20,4 +20,4 @@ https://gym.openai.com/docs/
 ## More Ref: 
 https://github.com/llSourcell/Q_Learning_Explained
 
-for More info and observations are existed in the "Report.pdf" file.
+for More info and observations are existed in the "RL_Report.pdf" file.
